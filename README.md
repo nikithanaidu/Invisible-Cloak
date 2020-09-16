@@ -41,7 +41,7 @@ We use Morphology to removes small regions of false detection which will avoid r
 
 In this way, the red cloth around us is covered by the background image we took earlier which eventually makes us invisible!!
 
-![alt text](https://user-images.githubusercontent.com/43539707/93295700-4ab62080-f80b-11ea-8f5d-ce9d50a34673.jpg)
+![alt text](https://user-images.githubusercontent.com/43539707/93296265-81406b00-f80c-11ea-830f-1234b5a5bf85.jpg)
 ![alt text](https://user-images.githubusercontent.com/43539707/93295671-31ad6f80-f80b-11ea-86f4-b724100e270c.jpg)
 
 ## Reference links
