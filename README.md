@@ -21,7 +21,7 @@ This project is divided into two python programs, background and invisible_cloak
 ### Background.py
 In this program, we allow our webcam to take an image of our background which will be used in the next program invisible_cloak and hence we allow the image to be saved as image.jpg in the folder of these programs.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![alt text](https://github.com/nikithanaidu/master/images/image 1.jpg)
 ### invisible_cloak.py
 So the idea is that we will use a red colour cloth as out invisibility cloak. We will first determine the region covered by the cloth (determine pixels corresponding to red colour). To detect red colour we use the HSV(Hue-Saturation-Value) colour space.
 
