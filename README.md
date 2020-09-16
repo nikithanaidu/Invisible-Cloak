@@ -20,9 +20,9 @@ This project uses OpenCV - a library of programming functions mainly aimed at re
 This project is divided into two python programs, background and invisible_cloak. 
 ### Background.py
 In this program, we allow our webcam to take an image of our background which will be used in the next program invisible_cloak and hence we allow the image to be saved as image.jpg in the folder of these programs.
-<p align="center">
-![alt text](https://user-images.githubusercontent.com/43539707/93295825-9072e900-f80b-11ea-80e4-86bf3808eb9c.jpg)
-</p>
+
+<img align="center" src=![alt text](https://user-images.githubusercontent.com/43539707/93295825-9072e900-f80b-11ea-80e4-86bf3808eb9c.jpg)></img>
+
 ### invisible_cloak.py
 So the idea is that we will use a red colour cloth as out invisibility cloak. We will first determine the region covered by the cloth (determine pixels corresponding to red colour). To detect red colour we use the HSV(Hue-Saturation-Value) colour space.
 
@@ -40,11 +40,11 @@ Value corresponds to the brightness of the image. For a given pixel if the value
 We use Morphology to removes small regions of false detection which will avoid random glitches in the final output.
 
 In this way, the red cloth around us is covered by the background image we took earlier which eventually makes us invisible!!
-<p align="center">
-![alt text](https://user-images.githubusercontent.com/43539707/93296265-81406b00-f80c-11ea-830f-1234b5a5bf85.jpg)
 
-![alt text](https://user-images.githubusercontent.com/43539707/93295671-31ad6f80-f80b-11ea-86f4-b724100e270c.jpg)
-</p>
+<img align="left" src=![alt text](https://user-images.githubusercontent.com/43539707/93296265-81406b00-f80c-11ea-830f-1234b5a5bf85.jpg)></img>
+
+<img align="right" src=![alt text](https://user-images.githubusercontent.com/43539707/93295671-31ad6f80-f80b-11ea-86f4-b724100e270c.jpg)></img>
+
 ## Reference links
 
 [youtube](https://www.youtube.com/watch?v=AkY2TpvDGUo&t=2305s)
